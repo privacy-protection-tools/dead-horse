@@ -2,7 +2,7 @@ name: Auto build new list
 
 on:
   schedule:
-    - cron: "2 28 */3 * *"
+    - cron: "28 2 */2 * *"
 jobs:
   build:
     runs-on: ubuntu-latest
