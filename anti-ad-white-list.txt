@@ -143,6 +143,7 @@ m.1234567.com.cn
 woniu.com
 du.163.com
 zaloapp.com
+manhuachi.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
