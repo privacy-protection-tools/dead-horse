@@ -148,6 +148,8 @@ push2.eastmoney.com
 slashdot.org
 iwx.mail.qq.com
 ename.net
+api.iplay.163.com
+minorshort.weixin.qq.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
