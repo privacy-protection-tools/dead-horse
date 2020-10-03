@@ -150,6 +150,7 @@ iwx.mail.qq.com
 ename.net
 api.iplay.163.com
 minorshort.weixin.qq.com
+pusher.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
