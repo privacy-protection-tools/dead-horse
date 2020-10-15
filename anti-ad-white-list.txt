@@ -152,6 +152,7 @@ api.iplay.163.com
 minorshort.weixin.qq.com
 pusher.com
 bluehost.com
+hosting24.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
