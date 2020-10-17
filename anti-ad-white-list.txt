@@ -116,7 +116,6 @@ search.video.iqiyi.com
 wanproxy.127.net
 shouji.360.cn
 ae01.alicdn.com
-pingjs.qq.com
 shifen.com
 f10.baidu.com
 f11.baidu.com
@@ -153,6 +152,7 @@ minorshort.weixin.qq.com
 pusher.com
 bluehost.com
 hosting24.com
+pdc.micloud.xiaomi.net
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
