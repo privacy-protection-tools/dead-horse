@@ -156,6 +156,7 @@ pdc.micloud.xiaomi.net
 valf.atm.cp31.ott.cibntv.net
 sf1-ttcdn-tos.pstatp.com
 sf3-ttcdn-tos.pstatp.com
+upload.cc
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
