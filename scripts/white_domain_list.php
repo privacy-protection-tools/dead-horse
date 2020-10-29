@@ -169,6 +169,9 @@ return array(
     'sf1-ttcdn-tos.pstatp.com' => 0, // #258
     'sf3-ttcdn-tos.pstatp.com' => 0, // #258
     'upload.cc' => 0, // #262
+    'yql.yahoo.com' => 0, // #263
+    'naifei.shop' => 0, // #267
+    'tagtic.cn' => 0, // #266
     
     
     

@@ -157,6 +157,9 @@ valf.atm.cp31.ott.cibntv.net
 sf1-ttcdn-tos.pstatp.com
 sf3-ttcdn-tos.pstatp.com
 upload.cc
+yql.yahoo.com
+naifei.shop
+tagtic.cn
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
