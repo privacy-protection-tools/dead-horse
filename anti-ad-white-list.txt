@@ -160,6 +160,10 @@ upload.cc
 yql.yahoo.com
 naifei.shop
 tagtic.cn
+settings-win.data.microsoft.com
+db5-eap.settings-win.data.microsoft.com.akadns.net
+db5.settings-win.data.microsoft.com.akadns.net
+geo.settings-win.data.microsoft.com.akadns.net
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
