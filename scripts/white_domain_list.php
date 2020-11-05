@@ -177,6 +177,15 @@ return array(
     'db5.settings-win.data.microsoft.com.akadns.net' => 0, // #268
     'geo.settings-win.data.microsoft.com.akadns.net' => 0, // #268
     'printfriendly.com' => 0, // #272
+    'cnnic.cn' => 0, #274
+    'ss.cnnic.cn' => 0, #274
+    'www.cnnic.cn' => 0, #274
+    'cnnic.net' => 0, #274
+    'www.cnnic.net' => 0, #274
+    'cnnic.net.cn' => 0, #274
+    'www.cnnic.net.cn' => 0, #274
+    'c.gj.qq.com' => 0, #273
+    'isee.weishi.qq.com' => 0, #270
     
     
     

@@ -165,6 +165,15 @@ db5-eap.settings-win.data.microsoft.com.akadns.net
 db5.settings-win.data.microsoft.com.akadns.net
 geo.settings-win.data.microsoft.com.akadns.net
 printfriendly.com
+cnnic.cn
+ss.cnnic.cn
+www.cnnic.cn
+cnnic.net
+www.cnnic.net
+cnnic.net.cn
+www.cnnic.net.cn
+c.gj.qq.com
+isee.weishi.qq.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
