@@ -176,6 +176,9 @@ c.gj.qq.com
 isee.weishi.qq.com
 direct.wap.zol.com.cn
 imop.com
+mobilelog.kugou.com
+bssdlbig.kugou.com
+pingjs.qq.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
