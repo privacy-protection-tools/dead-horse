@@ -179,6 +179,7 @@ imop.com
 mobilelog.kugou.com
 bssdlbig.kugou.com
 tvzhe.com
+stats.gc.apple.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
