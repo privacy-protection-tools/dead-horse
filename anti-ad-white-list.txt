@@ -181,6 +181,7 @@ bssdlbig.kugou.com
 tvzhe.com
 stats.gc.apple.com
 img1.sj.qq.com
+live.simcitybuildit.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
