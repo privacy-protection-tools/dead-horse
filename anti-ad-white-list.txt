@@ -182,6 +182,8 @@ tvzhe.com
 stats.gc.apple.com
 img1.sj.qq.com
 live.simcitybuildit.com
+subscription.iqiyi.com
+azureedge.net
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
