@@ -196,6 +196,8 @@ return array(
     'live.simcitybuildit.com' => 0, #303
     'subscription.iqiyi.com' => 0, #306
     'azureedge.net' => 0, #309
+    'surge.sh' => 0, // qq group, @frank
+    'ccclub.cmbchina.com' => 0, // #313
     
     
     
