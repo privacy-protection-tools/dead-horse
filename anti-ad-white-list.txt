@@ -186,6 +186,7 @@ subscription.iqiyi.com
 azureedge.net
 surge.sh
 ccclub.cmbchina.com
+adv.ccb.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
