@@ -188,6 +188,7 @@ surge.sh
 ccclub.cmbchina.com
 adv.ccb.com
 conac.cn
+mix.sina.com.cn
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
