@@ -189,6 +189,7 @@ ccclub.cmbchina.com
 adv.ccb.com
 conac.cn
 mix.sina.com.cn
+jwpcdn.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
