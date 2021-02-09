@@ -193,6 +193,7 @@ jwpcdn.com
 retcode.taobao.com
 3975.com
 air.1688.com
+continuum.dds.microsoft.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
