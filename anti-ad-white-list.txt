@@ -194,6 +194,14 @@ retcode.taobao.com
 3975.com
 air.1688.com
 continuum.dds.microsoft.com
+sec.resource.xiaomi.net
+api.cortana.ai
+mazu.3g.qq.com
+umiwi.com
+xmpush.xiaomi.com
+doublecklick.net
+issuecdn.baidupcs.com
+duiba.com.cn
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
