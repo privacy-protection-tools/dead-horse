@@ -207,6 +207,8 @@ ccmp.eu
 alissl.ucdl.pp.uc.cn
 c3pool.com
 wtradv.market.xiaomi.com
+update.avlyun.sec.miui.com
+sugar.zhihu.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
