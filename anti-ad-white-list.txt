@@ -209,6 +209,7 @@ c3pool.com
 wtradv.market.xiaomi.com
 update.avlyun.sec.miui.com
 sugar.zhihu.com
+chtbl.com
 nahnoji.cz
 scribol.com
 tracking.epicgames.com
