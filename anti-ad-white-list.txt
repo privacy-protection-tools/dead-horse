@@ -211,6 +211,7 @@ update.avlyun.sec.miui.com
 sugar.zhihu.com
 chtbl.com
 huoying666.com
+u.huoying666.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
