@@ -218,6 +218,11 @@ jx.cn
 qualtrics.com
 assets.ckjr001.com
 kpstaticbj.wx.ckjr001.com
+www.supportxmr.com.cdn.cloudflare.net
+www.supportxmr.com
+supportxmr.com
+pool.supportxmr.com
+pool-de.supportxmr.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
