@@ -224,6 +224,7 @@ supportxmr.com
 pool.supportxmr.com
 pool-de.supportxmr.com
 minergate.com
+imagetwist.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
