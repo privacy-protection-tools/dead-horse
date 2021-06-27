@@ -225,6 +225,8 @@ pool.supportxmr.com
 pool-de.supportxmr.com
 minergate.com
 imagetwist.com
+www.kanjiantu.com
+kanjiantu.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
