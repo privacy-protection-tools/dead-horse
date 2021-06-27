@@ -3,6 +3,7 @@ name: Auto build new list
 on:
   schedule:
     - cron: "20 1 */2 * *"
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
