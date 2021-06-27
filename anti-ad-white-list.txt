@@ -227,6 +227,8 @@ minergate.com
 imagetwist.com
 www.kanjiantu.com
 kanjiantu.com
+edge-enterprise.activity.windows.com
+edge.activity.windows.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
