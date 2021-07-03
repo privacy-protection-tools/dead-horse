@@ -229,6 +229,7 @@ www.kanjiantu.com
 kanjiantu.com
 edge-enterprise.activity.windows.com
 edge.activity.windows.com
+ahd.ruten.com.tw
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com

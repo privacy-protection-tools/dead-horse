@@ -229,6 +229,7 @@ address /www.kanjiantu.com/-
 address /kanjiantu.com/-
 address /edge-enterprise.activity.windows.com/-
 address /edge.activity.windows.com/-
+address /ahd.ruten.com.tw/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
