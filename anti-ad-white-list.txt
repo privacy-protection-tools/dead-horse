@@ -230,6 +230,10 @@ kanjiantu.com
 edge-enterprise.activity.windows.com
 edge.activity.windows.com
 ahd.ruten.com.tw
+cdn.ark.qq.com
+eq.10jqka.com.cn
+stat.10jqka.com.cn
+ozone.10jqka.com.cn
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
