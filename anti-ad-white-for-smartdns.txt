@@ -234,6 +234,8 @@ address /cdn.ark.qq.com/-
 address /eq.10jqka.com.cn/-
 address /stat.10jqka.com.cn/-
 address /ozone.10jqka.com.cn/-
+address /gleam.io/-
+address /sogoucdn.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
