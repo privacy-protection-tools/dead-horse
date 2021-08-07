@@ -236,6 +236,7 @@ stat.10jqka.com.cn
 ozone.10jqka.com.cn
 gleam.io
 sogoucdn.com
+widget.gleamjs.io
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com

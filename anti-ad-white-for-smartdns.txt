@@ -236,6 +236,7 @@ address /stat.10jqka.com.cn/-
 address /ozone.10jqka.com.cn/-
 address /gleam.io/-
 address /sogoucdn.com/-
+address /widget.gleamjs.io/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
