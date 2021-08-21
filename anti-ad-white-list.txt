@@ -254,6 +254,7 @@ d3tglifpd8whs6.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 whoami.akamai.net
+kaipuyun.cn
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com

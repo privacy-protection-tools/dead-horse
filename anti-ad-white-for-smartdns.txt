@@ -254,6 +254,7 @@ address /d3tglifpd8whs6.cloudfront.net/-
 address /d3tsytm1wtjqo2.cloudfront.net/-
 address /d5nxst8fruw4z.cloudfront.net/-
 address /whoami.akamai.net/-
+address /kaipuyun.cn/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
