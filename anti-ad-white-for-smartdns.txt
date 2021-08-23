@@ -255,6 +255,8 @@ address /d3tsytm1wtjqo2.cloudfront.net/-
 address /d5nxst8fruw4z.cloudfront.net/-
 address /whoami.akamai.net/-
 address /kaipuyun.cn/-
+address /fraudmetrix.cn/-
+address /fp.tongdun.net/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
