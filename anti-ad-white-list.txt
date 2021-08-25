@@ -257,6 +257,7 @@ whoami.akamai.net
 kaipuyun.cn
 fraudmetrix.cn
 fp.tongdun.net
+kaptcha.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
