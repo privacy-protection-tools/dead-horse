@@ -260,6 +260,7 @@ address /fp.tongdun.net/-
 address /kaptcha.com/-
 address /dfcfw.com/-
 address /msedge.net/-
+address /ecard.shenzhentong.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
