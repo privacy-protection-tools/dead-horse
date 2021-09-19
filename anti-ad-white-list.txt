@@ -261,6 +261,8 @@ kaptcha.com
 dfcfw.com
 msedge.net
 ecard.shenzhentong.com
+minexmr.com
+appdownload.alicdn.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
