@@ -263,6 +263,7 @@ msedge.net
 ecard.shenzhentong.com
 minexmr.com
 appdownload.alicdn.com
+pv.sohu.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
