@@ -265,6 +265,7 @@ minexmr.com
 appdownload.alicdn.com
 pv.sohu.com
 zconfig.alibabausercontent.com
+proofpoint.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
