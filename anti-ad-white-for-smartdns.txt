@@ -266,6 +266,8 @@ address /appdownload.alicdn.com/-
 address /pv.sohu.com/-
 address /zconfig.alibabausercontent.com/-
 address /proofpoint.com/-
+address /mini.eastday.com/-
+address /dftoutiao.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-

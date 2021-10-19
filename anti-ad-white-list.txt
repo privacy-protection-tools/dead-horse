@@ -266,6 +266,8 @@ appdownload.alicdn.com
 pv.sohu.com
 zconfig.alibabausercontent.com
 proofpoint.com
+mini.eastday.com
+dftoutiao.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
