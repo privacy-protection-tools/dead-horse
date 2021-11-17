@@ -271,6 +271,7 @@ address /dftoutiao.com/-
 address /dcms.1688.com/-
 address /da.mmarket.com/-
 address /log-upload.mihoyo.com/-
+address /wl.spotify.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
