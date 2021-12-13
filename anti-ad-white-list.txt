@@ -274,6 +274,10 @@ log-upload.mihoyo.com
 wl.spotify.com
 s1.wp.com
 lc-cn-n1-shared.com
+instant.page
+jspassport.ssl.qhimg.com
+service.signalr.net
+threatbook.cn
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com

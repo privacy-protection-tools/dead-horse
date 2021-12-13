@@ -274,6 +274,10 @@ address /log-upload.mihoyo.com/-
 address /wl.spotify.com/-
 address /s1.wp.com/-
 address /lc-cn-n1-shared.com/-
+address /instant.page/-
+address /jspassport.ssl.qhimg.com/-
+address /service.signalr.net/-
+address /threatbook.cn/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
