@@ -278,6 +278,7 @@ address /instant.page/-
 address /jspassport.ssl.qhimg.com/-
 address /service.signalr.net/-
 address /threatbook.cn/-
+address /err.taobao.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-

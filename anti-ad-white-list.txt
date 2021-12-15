@@ -278,6 +278,7 @@ instant.page
 jspassport.ssl.qhimg.com
 service.signalr.net
 threatbook.cn
+err.taobao.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com

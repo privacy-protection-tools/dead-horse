@@ -291,6 +291,8 @@ return array(
     'jspassport.ssl.qhimg.com' => 0, // #515
     'service.signalr.net' => 0, // #519
     'threatbook.cn' => 0, // #522
+    'gofile.io' => -1, // #525
+    'err.taobao.com' => 0, // #521
 
 
 
