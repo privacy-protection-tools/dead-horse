@@ -279,6 +279,8 @@ address /jspassport.ssl.qhimg.com/-
 address /service.signalr.net/-
 address /threatbook.cn/-
 address /err.taobao.com/-
+address /boxer.baidu.com/-
+address /simplyhired.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-

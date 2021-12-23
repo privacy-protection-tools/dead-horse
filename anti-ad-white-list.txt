@@ -279,6 +279,8 @@ jspassport.ssl.qhimg.com
 service.signalr.net
 threatbook.cn
 err.taobao.com
+boxer.baidu.com
+simplyhired.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
