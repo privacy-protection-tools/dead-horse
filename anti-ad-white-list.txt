@@ -281,6 +281,7 @@ threatbook.cn
 err.taobao.com
 boxer.baidu.com
 simplyhired.com
+x6img.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com

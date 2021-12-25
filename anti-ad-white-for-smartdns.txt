@@ -281,6 +281,7 @@ address /threatbook.cn/-
 address /err.taobao.com/-
 address /boxer.baidu.com/-
 address /simplyhired.com/-
+address /x6img.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
