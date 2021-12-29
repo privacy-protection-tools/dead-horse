@@ -282,6 +282,8 @@ address /err.taobao.com/-
 address /boxer.baidu.com/-
 address /simplyhired.com/-
 address /x6img.com/-
+address /p-l.play.aiseet.atianqi.com/-
+address /news-l.play.aiseet.atianqi.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-

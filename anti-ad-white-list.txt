@@ -282,6 +282,8 @@ err.taobao.com
 boxer.baidu.com
 simplyhired.com
 x6img.com
+p-l.play.aiseet.atianqi.com
+news-l.play.aiseet.atianqi.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
