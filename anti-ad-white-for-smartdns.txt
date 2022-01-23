@@ -303,6 +303,8 @@ address /xj-n-tax.gov.cn/-
 address /zazhipu.com/-
 address /ztgame.com/-
 address /yximgs.com/-
+address /cdn.cnbj1.fds.api.mi-img.com/-
+address /browser.mi-img.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
