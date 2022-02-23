@@ -312,6 +312,7 @@ address /down.360safe.com/-
 address /soup.v.qq.com/-
 address /live-trace.bilibili.com/-
 address /live800.com/-
+address /www.meipian7.cn/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
