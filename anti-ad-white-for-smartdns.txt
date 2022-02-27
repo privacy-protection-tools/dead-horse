@@ -313,6 +313,11 @@ address /soup.v.qq.com/-
 address /live-trace.bilibili.com/-
 address /live800.com/-
 address /www.meipian7.cn/-
+address /creativecommons.org/-
+address /go.pardot.com/-
+address /gbfek.dfcfw.com/-
+address /dfscdn.dfcfw.com/-
+address /empic.dfcfw.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
