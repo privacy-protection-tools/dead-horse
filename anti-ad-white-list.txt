@@ -318,6 +318,7 @@ go.pardot.com
 gbfek.dfcfw.com
 dfscdn.dfcfw.com
 empic.dfcfw.com
+wxapp.lvyadx.cn
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com

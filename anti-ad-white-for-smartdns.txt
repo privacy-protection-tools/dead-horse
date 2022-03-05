@@ -318,6 +318,7 @@ address /go.pardot.com/-
 address /gbfek.dfcfw.com/-
 address /dfscdn.dfcfw.com/-
 address /empic.dfcfw.com/-
+address /wxapp.lvyadx.cn/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
