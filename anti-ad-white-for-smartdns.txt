@@ -322,6 +322,9 @@ address /wxapp.lvyadx.cn/-
 address /canyoublockit.com/-
 address /d.getpocket.com/-
 address /pdst.fm/-
+address /licensebuttons.net/-
+address /wmflabs.org/-
+address /jsinfo.net/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-

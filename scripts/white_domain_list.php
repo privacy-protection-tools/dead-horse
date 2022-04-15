@@ -336,6 +336,9 @@ return array(
     'canyoublockit.com' => 0, #601
     'd.getpocket.com' => 0, #602
     'pdst.fm' => 0, #603
+    'licensebuttons.net' => 0, #609
+    'wmflabs.org' => 0, #611
+    'jsinfo.net' => 0, #613
 
 
 
