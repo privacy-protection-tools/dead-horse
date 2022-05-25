@@ -328,6 +328,9 @@ address /jsinfo.net/-
 address /uol.com.br/-
 address /ntalker.com/-
 address /img.shouji.sogou.com/-
+address /mo.res.wpscdn.cn/-
+address /qhres2.com/-
+address /rumble.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
