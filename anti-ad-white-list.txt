@@ -331,6 +331,9 @@ img.shouji.sogou.com
 mo.res.wpscdn.cn
 qhres2.com
 rumble.com
+37signals.com
+stackpathdns.com
+msg.douyu.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com

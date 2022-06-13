@@ -345,6 +345,9 @@ return array(
     'mo.res.wpscdn.cn' => 0, #636
     'qhres2.com' => 0, #638
     'rumble.com' => 0, #639
+    '37signals.com' => 0, #647
+    'stackpathdns.com' => 0, #645
+    'msg.douyu.com' => 0, #649
 
 
 
