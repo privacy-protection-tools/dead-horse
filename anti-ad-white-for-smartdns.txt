@@ -334,6 +334,8 @@ address /rumble.com/-
 address /37signals.com/-
 address /stackpathdns.com/-
 address /msg.douyu.com/-
+address /hot.browser.miui.com/-
+address /linksnappy.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
