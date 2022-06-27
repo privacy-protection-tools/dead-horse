@@ -336,6 +336,7 @@ stackpathdns.com
 msg.douyu.com
 hot.browser.miui.com
 linksnappy.com
+szlong.weixin.qq.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
