@@ -337,6 +337,9 @@ address /msg.douyu.com/-
 address /hot.browser.miui.com/-
 address /linksnappy.com/-
 address /szlong.weixin.qq.com/-
+address /metrics.icloud.com/-
+address /h-adashx.ut.dingtalk.com/-
+address /adashx.ut.dingtalk.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-

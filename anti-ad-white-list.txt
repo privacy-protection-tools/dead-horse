@@ -337,6 +337,9 @@ msg.douyu.com
 hot.browser.miui.com
 linksnappy.com
 szlong.weixin.qq.com
+metrics.icloud.com
+h-adashx.ut.dingtalk.com
+adashx.ut.dingtalk.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
