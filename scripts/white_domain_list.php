@@ -354,6 +354,8 @@ return array(
     'metrics.icloud.com' => 0, #661
     'h-adashx.ut.dingtalk.com' => 0, #662
     'adashx.ut.dingtalk.com' => 0, #662
+    'ctrip.com' => 0, #666
+    'sv.aq.qq.com' => 0, #664
 
 
 
