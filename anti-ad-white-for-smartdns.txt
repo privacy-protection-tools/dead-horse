@@ -342,6 +342,7 @@ address /h-adashx.ut.dingtalk.com/-
 address /adashx.ut.dingtalk.com/-
 address /ctrip.com/-
 address /sv.aq.qq.com/-
+address /nmobi.kuwo.cn/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
