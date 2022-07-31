@@ -344,6 +344,7 @@ address /ctrip.com/-
 address /sv.aq.qq.com/-
 address /nmobi.kuwo.cn/-
 address /govdelivery.com/-
+address /jimdo.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
