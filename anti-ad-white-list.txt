@@ -346,6 +346,9 @@ nmobi.kuwo.cn
 govdelivery.com
 meipian7.cn
 jimdo.com
+gm.mmstat.com
+as.mgtv.com
+adobe-campaign.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
