@@ -349,6 +349,10 @@ address /jimdo.com/-
 address /gm.mmstat.com/-
 address /as.mgtv.com/-
 address /adobe-campaign.com/-
+address /ssl-cdn.static.browser.mi-img.com/-
+address /meitubeauty.meitudata.com/-
+address /my-material.zone1.meitudata.com/-
+address /profile.csdnimg.cn/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
