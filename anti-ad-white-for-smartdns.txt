@@ -354,6 +354,7 @@ address /meitubeauty.meitudata.com/-
 address /my-material.zone1.meitudata.com/-
 address /profile.csdnimg.cn/-
 address /db-ip.com/-
+address /geotrust.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
