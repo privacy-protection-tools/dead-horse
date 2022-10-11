@@ -355,6 +355,7 @@ my-material.zone1.meitudata.com
 profile.csdnimg.cn
 db-ip.com
 geotrust.com
+salon.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com
