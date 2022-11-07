@@ -358,6 +358,7 @@ address /geotrust.com/-
 address /salon.com/-
 address /mini2015.qq.com/-
 address /alimama.com/-
+address /hqq.tv/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
