@@ -374,6 +374,14 @@ return array(
     'mini2015.qq.com' => 0, #710
     'alimama.com' => 0, #710
     'hqq.tv' => 0, #725
+    'gift.douyucdn.cn' => 0, #745
+    'urldefense.com' => 0, #741
+    'sfp.safe.baidu.com' => 0, #728
+    'sofire.baidu.com' => 0, #728
+    'c.youdao.com' => 0, #729
+    'button.like.co' => 0, #737
+    'wgo.mmstat.com' => 0, #730
+    'eroterest.net' => 0, #731
 
 
 

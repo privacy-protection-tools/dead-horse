@@ -359,6 +359,14 @@ address /salon.com/-
 address /mini2015.qq.com/-
 address /alimama.com/-
 address /hqq.tv/-
+address /gift.douyucdn.cn/-
+address /urldefense.com/-
+address /sfp.safe.baidu.com/-
+address /sofire.baidu.com/-
+address /c.youdao.com/-
+address /button.like.co/-
+address /wgo.mmstat.com/-
+address /eroterest.net/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
