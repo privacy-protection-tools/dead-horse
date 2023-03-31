@@ -20,7 +20,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add . -A
+          git add . -u
           if [[ -z $(git status -s) ]]; then
               echo "There are no changes in the commit step." && exit 0
           fi
