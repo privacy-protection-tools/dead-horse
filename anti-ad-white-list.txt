@@ -57,7 +57,6 @@ gsp1.baidu.com
 gsp2.baidu.com
 gsp3.baidu.com
 sp0.baidu.com
-sp1.baidu.com
 sp2.baidu.com
 c0.ifengimg.com
 7moor.com
@@ -367,6 +366,12 @@ c.youdao.com
 button.like.co
 wgo.mmstat.com
 eroterest.net
+click.redditmail.com
+act.vip.iqiyi.com
+vaserviece.10jqka.com.cn
+chkaja.com
+short-video.kakamobi.cn
+qiyukf.com
 iflow.uczzd.cn
 m.uczzd.cn
 puds.ucweb.com

@@ -57,7 +57,6 @@ address /gsp1.baidu.com/-
 address /gsp2.baidu.com/-
 address /gsp3.baidu.com/-
 address /sp0.baidu.com/-
-address /sp1.baidu.com/-
 address /sp2.baidu.com/-
 address /c0.ifengimg.com/-
 address /7moor.com/-
@@ -367,6 +366,12 @@ address /c.youdao.com/-
 address /button.like.co/-
 address /wgo.mmstat.com/-
 address /eroterest.net/-
+address /click.redditmail.com/-
+address /act.vip.iqiyi.com/-
+address /vaserviece.10jqka.com.cn/-
+address /chkaja.com/-
+address /short-video.kakamobi.cn/-
+address /qiyukf.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
