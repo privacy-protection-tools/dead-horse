@@ -22,9 +22,9 @@ jobs:
           git config --local user.name "GitHub Action"
           git add . -A
           git commit -m "Auto renew list." -a
-      - name: Check commit result
-        if: ${{ failure() }}
-        run: echo "There are no changes in the commit step." && exit 0
+          if [ $? -ne 0 ]; then
+              echo "There are no changes in the commit step." && exit 0
+          fi
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
