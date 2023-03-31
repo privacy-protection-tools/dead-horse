@@ -8,18 +8,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@main
-    - name: Run start.sh
-      run: |
-        ./scripts/start.sh
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Auto renew list." -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.PERSON_TOKEN }}
-        branch: 'master'
+      - uses: actions/checkout@v3
+      - name: co master
+        uses: actions/checkout@v3
+        with:
+          ref: 'master'
+      - name: Run start.sh
+        run: |
+          ./scripts/start.sh
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add . -a
+          git commit -m "Auto renew list." -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PERSON_TOKEN }}
+          branch: 'master'
