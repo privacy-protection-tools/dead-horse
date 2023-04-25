@@ -372,6 +372,8 @@ address /vaserviece.10jqka.com.cn/-
 address /chkaja.com/-
 address /short-video.kakamobi.cn/-
 address /qiyukf.com/-
+address /amdc.m.taobao.com/-
+address /jiagu.360.cn/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-

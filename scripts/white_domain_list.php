@@ -387,6 +387,8 @@ return [
     "chkaja.com" => 0, #774
     "short-video.kakamobi.cn" => 0, #758
     "qiyukf.com" => 0, #754
+    "amdc.m.taobao.com" => 0, #778
+    "jiagu.360.cn" => 0, #788
     "iflow.uczzd.cn" => 0, // uc搞笑段子
     "m.uczzd.cn" => 0, // uc搞笑段子
     "puds.ucweb.com" => 0, // uc小游戏
