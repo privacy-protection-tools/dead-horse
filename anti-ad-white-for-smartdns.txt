@@ -382,6 +382,8 @@ address /mairuan.cn/-
 address /www.mairuan.cn/-
 address /mairuan.net/-
 address /www.mairuan.net/-
+address /ldmnq.com/-
+address /heytapimage.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
 address /puds.ucweb.com/-
