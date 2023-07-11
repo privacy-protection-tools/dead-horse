@@ -389,6 +389,7 @@ address /jango.com/-
 address /huluxia.com/-
 address /ucweb.com/-
 address /yule.sohu.com/-
+address /zoosnet.net/-
 address /weworkremotely.com/-
 address /iflow.uczzd.cn/-
 address /m.uczzd.cn/-
